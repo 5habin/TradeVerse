@@ -2,7 +2,7 @@
   "patterns": [
     {
       "keywords": ["chart formations", "technical patterns", "market structures"],
-      "answer": "The major trading patterns are:\n1-Head and shoulders \n2-Double top \n3-double bottom \n4-ascending triangle \n5-descending triangle.",
+      "answer": "The major trading patterns are:\n1-head shoulders reversal \n2-twin peak \n3-double dip \n4-ascending triangle \n5-descending triangle.",
       "examples": ["Example chart: https://example.com/hns-pattern"]
     },
     {
@@ -11,22 +11,22 @@
       "examples": ["Example chart: https://example.com/hns-pattern"]
     },
     {
-      "keywords": ["bearish reversal", "twin peak pattern", "double peak signal"],
+      "keywords": ["bearish reversal", "twin peak ", "double peak signal"],
       "answer": "A double top is a bearish reversal pattern that occurs after an uptrend.\n\nIt forms when the price reaches a high point (the first peak), then pulls back before rising again to a similar high (the second peak).\n\nThe two peaks indicate strong resistance, suggesting that buyers are struggling to push the price higher.\n\nOnce the price fails to break above the resistance level and starts declining, it signals potential weakness in the trend.\n\nA confirmation of the pattern happens when the price breaks below the support level (the low between the two peaks), leading to a downtrend.\n\nTraders often use this pattern to anticipate a trend reversal and may set stop-loss orders above the peaks while targeting lower price levels for profit.",
       "examples": ["Example chart: https://example.com/double-top"]
     },
     {
-      "keywords": ["bullish reversal", "double dip pattern", "support zone breakout"],
+      "keywords": ["bullish reversal", "double dip ", "support zone breakout"],
       "answer": "A double bottom is a bullish reversal pattern that occurs after a downtrend.\nIt forms when the price reaches a low point (the first bottom), then rises before falling again to a similar low (the second bottom).\nThe two bottoms indicate strong support, suggesting that sellers are unable to push the price lower.\nOnce the price fails to break below the support level and starts rising, it signals a potential shift in momentum.\nA confirmation of the pattern occurs when the price breaks above the resistance level (the peak between the two bottoms), leading to an upward trend.\nTraders often use this pattern to anticipate a trend reversal, placing stop-loss orders below the bottoms and targeting higher price levels for profit.",
       "examples": ["Example chart: https://example.com/double-bottom"]
     },
     {
-      "keywords": ["bullish triangle", "rising support", "breakout continuation"],
+      "keywords": ["ascending triangle", "rising support", "breakout continuation"],
       "answer": "An ascending triangle is a bullish continuation pattern that typically forms during an uptrend.\nIt is characterized by a horizontal resistance level at the top, where the price struggles to break through.\nAt the same time, the support line is upward sloping, with each successive low being higher than the previous one.\nThis pattern suggests that while sellers are able to push the price down to the same resistance level, buyers are gradually pushing the price higher.\nThe increasing buying pressure shows that buyers are gaining strength, and a breakout is expected when the price finally breaches the resistance level.\nOnce the price breaks above the resistance, the pattern is confirmed, signaling a potential continuation of the uptrend.\nTraders often look for volume to increase during the breakout, as it indicates strong market participation and further confirms the bullish trend.",
       "examples": ["Example chart: https://example.com/ascending-triangle"]
     },
     {
-      "keywords": ["bearish triangle", "falling resistance", "breakdown signal"],
+      "keywords": ["descending triangle", "falling resistance", "breakdown signal"],
       "answer": "A descending triangle is a bearish continuation pattern that typically forms during a downtrend.\nIt is characterized by a horizontal support level at the bottom, where the price repeatedly tests the same low without breaking lower.\nAt the same time, the resistance line slopes downward, with each successive high being lower than the previous one.\nThis pattern suggests that while buyers are trying to push the price higher, their efforts are weaker, and sellers are increasingly able to bring the price down.\nThe decreasing highs indicate that selling pressure is growing, and a breakdown is expected when the price finally breaks below the support level.\nOnce the price breaches the support, the pattern is confirmed, signaling a potential continuation of the downtrend.\nTraders often look for volume to increase during the breakdown, as it suggests strong participation and further confirms the bearish trend.",
       "examples": ["Example chart: https://example.com/descending-triangle"]
     }
@@ -50,7 +50,7 @@
   ],
   "sessions": [
     {
-      "keywords": ["forex market sessions", "trading sessions"],
+      "keywords": ["forex market sessions"],
       "answer": "The forex market operates 24 hours a day across four major trading sessions, each corresponding to a major financial center.\nThese sessions allow traders from around the world to engage in forex trading at different times, ensuring liquidity and volatility throughout the day.\n\n1. **Sydney Session**: 10 PM - 7 AM GMT\n   This is the first session to open, representing the Asia-Pacific region. It's generally less volatile compared to other sessions but provides opportunities for those interested in trading during off-peak hours.\n\n2. **Tokyo Session** (Asian): 12 AM - 9 AM GMT\n   This session marks the start of the Asian trading day. It's more active than the Sydney session and often sees movements in currency pairs tied to the Japanese yen and other Asian economies.\n\n3. **London Session**: 8 AM - 5 PM GMT\n   The London session is one of the most important due to its large volume of trades. It's when many economic news releases are made, and major currency pairs like EUR/USD and GBP/USD are actively traded.\n\n4. **New York Session**: 1 PM - 10 PM GMT\n   The New York session is the second-most important session, as it represents the U.S. market, where much of the trading volume originates. It sees significant activity, especially in pairs involving the U.S. dollar.\n\nThe overlap between the London and New York sessions (1 PM - 5 PM GMT) is considered the most volatile and liquid period of the day, providing great trading opportunities as both markets are active at the same time."
     }
   ],

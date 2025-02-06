@@ -14,7 +14,7 @@ export default function Home() {
 
   useEffect(() => {
     const welcomeText =
-      "Welcome to TradeVerse\n\nYour Trading Knowledge Hub\n\nTry asking:\n- Trading pattern\n- Stop-loss and take-profit\n- Types of market\n- moving average convergence divergence/MACD\n- Bollinger Bands \n-rrr-risk reward ratio";
+      "Welcome to TradeVerse\n\nYour Trading Knowledge Hub\n\nTry asking:\n- Technical patterns\n- Stop-loss\n- trader mindset\n- moving average convergence divergence/MACD\n- patience in trading \n-rrr-risk reward ratio";
     let currentIndex = 0;
     const typingInterval = setInterval(() => {
       if (currentIndex <= welcomeText.length) {
